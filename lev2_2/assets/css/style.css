@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    gap: 10vw;
+}
